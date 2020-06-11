@@ -53,7 +53,6 @@ gdb --version
 Compile your C program with -g option. This allows the compiler to collect the debugging information.
 
 ```
-
 cd gdb-debugger
 gcc -g -o fibonacci fibonacci_naive.c
 ./fibonacci
@@ -81,7 +80,6 @@ run
 Once you executed the C program, it would execute until the first break point, and give you the prompt for debugging.
 
 ```
-
 (gdb) run
 Starting program: /home/arslan/github-repositories/gdb-debugger/fibonacci 
 
