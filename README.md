@@ -1,7 +1,7 @@
 # gdb-debugger
 Debug C program using gdb
 
-### GDB installation
+## GDB installation
 
 There are two ways you can install GDB on linux.
 
@@ -47,8 +47,7 @@ To check version and test whether gdb installed correctly.
 gdb --version
 ```
 
-
-### Example Debug C Program
+## Example Debug C Program
 
 Compile your C program with -g option. This allows the compiler to collect the debugging information.
 
